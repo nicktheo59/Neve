@@ -1,7 +1,7 @@
 # Neve AI Agent Architecture
 
 ## Overview
-Neve (Autonomous Networked Utility System) is an open-source AI agent framework designed to provide accessible, powerful, and flexible AI assistance for a wide range of tasks. Inspired by OpenMNeve and OWL, Neve combines the simplicity and accessibility of OpenMNeve with the multi-agent collaboration capabilities of OWL to create a unique and effective AI agent system.
+Neve (Networked Ergodic (word)Vector Engine) is an open-source AI agent framework designed to provide accessible, powerful, and flexible AI assistance for a wide range of tasks. Inspired by OpenMNeve and OWL, Neve combines the simplicity and accessibility of OpenMNeve with the multi-agent collaboration capabilities of OWL to create a unique and effective AI agent system.
 
 ## Core Philosophy
 - **Accessibility**: No barriers to entry, completely open-source with minimal setup requirements

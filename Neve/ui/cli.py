@@ -35,7 +35,7 @@ class CLI(cmd.Cmd):
     
     # Easter egg jokes for random display
     _Neve_jokes = [
-        "Neve: Because 'Autonomous Networked Utility System' sounds better in meetings.",
+        "Neve: Because 'Networked Ergodic (word)Vector Engine' sounds better in meetings.",
         "Neve: The backend system that handles all your crap.",
         "Neve: Boldly going where no framework has gone before.",
         "Neve: It's not a bug, it's a feature... a very uncomfortable feature.",
@@ -79,7 +79,7 @@ class CLI(cmd.Cmd):
         term_width = shutil.get_terminal_size().columns
         
         print("=" * term_width)
-        print("Neve - Autonomous Networked Utility System".center(term_width))
+        print("Neve - Networked Ergodic (word)Vector Engine".center(term_width))
         print("=" * term_width)
         print(random.choice(self._Neve_jokes).center(term_width))
         print("=" * term_width)

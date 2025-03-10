@@ -1,5 +1,5 @@
 """
-Neve - Autonomous Networked Utility System
+Neve - Networked Ergodic (word)Vector Engine
 Main entry point for the Neve AI agent framework
 """
 
@@ -10,7 +10,7 @@ from Neve.ui.cli import CLI
 
 def main():
     """Main entry point for the Neve AI agent"""
-    parser = argparse.ArgumentParser(description="Neve AI - Autonomous Networked Utility System")
+    parser = argparse.ArgumentParser(description="Neve AI - Networked Ergodic (word)Vector Engine")
     parser.add_argument("--config", type=str, default="config.yaml", help="Path to configuration file")
     parser.add_argument("--mode", type=str, default="single", choices=["single", "multi"], help="Agent mode")
     parser.add_argument("--task", type=str, help="Task description")

@@ -2,7 +2,7 @@
 
 ## Overview
 
-This document outlines a proposed architecture for the Neve (Autonomous Networked Utility System) framework, thoughtfully adapting valuable concepts from OpenMNeve while enhancing them to fulfill Neve's unique vision. The design maintains Neve's intended structure while incorporating OpenMNeve's proven architectural patterns.
+This document outlines a proposed architecture for the Neve (Networked Ergodic (word)Vector Engine) framework, thoughtfully adapting valuable concepts from OpenMNeve while enhancing them to fulfill Neve's unique vision. The design maintains Neve's intended structure while incorporating OpenMNeve's proven architectural patterns.
 
 ## Core Architecture
 

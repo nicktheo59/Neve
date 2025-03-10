@@ -1,5 +1,5 @@
 """
-Neve - Autonomous Networked Utility System
+Neve - Networked Ergodic (word)Vector Engine
 Package initialization
 """
 

@@ -1,4 +1,4 @@
-# Neve: Autonomous Networked Utility System
+# Neve: Networked Ergodic (word)Vector Engine
 
 <p align="center">
   <img src="assets/Neve_logo.png" alt="Neve AI Logo" width="200"/>
@@ -33,7 +33,7 @@
 
 ## 🌟 Introduction
 
-**Neve** (Autonomous Networked Utility System) is a powerful, flexible, and accessible open-source AI agent framework designed to revolutionize task automation. Built with modern AI technologies and best practices, Neve represents the next generation of AI agent frameworks, offering unparalleled capabilities and ease of use.
+**Neve** (Networked Ergodic (word)Vector Engine) is a powerful, flexible, and accessible open-source AI agent framework designed to revolutionize task automation. Built with modern AI technologies and best practices, Neve represents the next generation of AI agent frameworks, offering unparalleled capabilities and ease of use.
 
 Neve empowers users to create AI agents that can:
 - Execute complex tasks through natural language instructions
